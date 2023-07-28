@@ -99,11 +99,14 @@ Notes for markdown:
 ## **ANNEXES**
 Some captures of what was worked on in video 2.
 
-![evidence1](image/Jul27-1.JPG)
+![evidence 1](image/Jul27-1.JPG)
 *Image 1. Use of modules.*
 
-![evidence2](image/Jul27-2.JPG)
+![evidence 2](image/Jul27-2.png)
 *Image 2. Use of props or parameters.*
 
-![evidence3](image/Jul27-3.png)
-*Image 3. Progress uploaded as a submodule, beginning of the problem.*
+![evidence 3](image/Jul27-4.png)
+*Image 3. Preview*
+
+![evidence 4](image/Jul27-3.png)
+*Image 4. Progress uploaded as a submodule, beginning of the problem.*
